@@ -1,4 +1,4 @@
-# Digispark ATtiny85 as a Cheap "USB Rubber Ducky"
+# Digispark ATtiny85 a Cheap "USB Rubber Ducky"
 
 ##Usage
     $ python DigiDuck.py
